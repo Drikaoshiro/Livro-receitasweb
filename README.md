@@ -1,7 +1,7 @@
-LIVRO DE RECEITAS
+**LIVRO DE RECEITAS**
 
 
 
-OLÁ BEM VINDO!
+Receita: Strogonoff
 
-*STROGONOFF*
+
